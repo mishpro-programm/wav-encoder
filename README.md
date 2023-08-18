@@ -23,8 +23,8 @@ options:
   -o OUTPUT, --output OUTPUT
                         Output file
 ```
-You can encode any file into wav like this:\
-```$ python encoder.py --original image.png --output encoded.wav```
+\You can encode any file into wav like this:\
+```$ python encoder.py --original image.png --output encoded.wav```\
 There's file before encoding:\
 ![Github Logo](https://raw.githubusercontent.com/mishpro-programm/wav-encoder/main/assets/image.png)
 \
